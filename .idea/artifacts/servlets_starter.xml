@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servlets-starter">
+    <output-path>$PROJECT_DIR$/out/artifacts/servlets_starter</output-path>
+    <root id="archive" name="servlets-starter.war">
+      <element id="artifact" artifact-name="http-serverlets-starter:Web exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib" />
+      </element>
+      <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.7.1" />
+      <element id="module-output" name="http-serverlets-starter" />
+    </root>
+  </artifact>
+</component>

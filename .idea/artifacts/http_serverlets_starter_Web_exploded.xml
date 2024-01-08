@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="http-serverlets-starter:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/http_serverlets_starter_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="http-serverlets-starter/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="http-serverlets-starter" />
+        </element>
+        <element id="directory" name="lib" />
+        <element id="library" level="project" name="lib" />
+      </element>
+      <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.7.1" />
+      <element id="module-output" name="http-serverlets-starter" />
+    </root>
+  </artifact>
+</component>
